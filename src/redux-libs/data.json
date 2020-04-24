@@ -1,0 +1,205 @@
+{
+  "data": [
+    {
+      "sku": "190198790408",
+      "make": "Apple",
+      "model": "iPhone XS",
+      "pricing": {
+        "price": 1379,
+        "msrp": 1379
+      },
+      "smartTab": {
+        "outrightPayment": 0,
+        "monthlyPayment": 19,
+        "savingAmount": 923,
+        "payoffPeriodMonths": 24
+      },
+      "plan": {
+        "price": 60,
+        "sku": "Big Gig Unlimited + Talk 10GB"
+      },
+      "isInStock": true
+    },
+    {
+      "sku": "190198776655",
+      "make": "Apple",
+      "model": "iPhone XR",
+      "pricing": {
+        "price": 1239,
+        "msrp": 1239
+      },
+      "smartTab": {
+        "outrightPayment": 0,
+        "monthlyPayment": 12,
+        "savingAmount": 581,
+        "payoffPeriodMonths": 24
+      },
+      "plan": {
+        "price": 65,
+        "sku": "Promo Big Gig Unlimited + Talk 11GB"
+      },
+      "isInStock": true
+    },
+    {
+      "sku": "190198455680",
+      "make": "Apple",
+      "model": "iPhone 8 Plus",
+      "pricing": {
+        "price": 1159,
+        "msrp": 1159
+      },
+      "smartTab": {
+        "outrightPayment": 0,
+        "monthlyPayment": 30,
+        "savingAmount": 559,
+        "payoffPeriodMonths": 24
+      },
+      "plan": {
+        "price": 50,
+        "sku": "Big Gig Unlimited 10GB"
+      },
+      "isInStock": true
+    },
+    {
+      "sku": "190198450944",
+      "make": "Apple",
+      "model": "iPhone 8",
+      "pricing": {
+        "price": 819,
+        "msrp": 819
+      },
+      "smartTab": {
+        "outrightPayment": 0,
+        "monthlyPayment": 5,
+        "savingAmount": 479,
+        "payoffPeriodMonths": 24
+      },
+      "plan": {
+        "price": 60,
+        "sku": "Big Gig Unlimited 10GB"
+      },
+      "isInStock": true
+    },
+    {
+      "sku": "190199380806",
+      "make": "Apple",
+      "model": "iPhone 11 Pro Max",
+      "pricing": {
+        "price": 1729,
+        "msrp": 1729
+      },
+      "smartTab": {
+        "outrightPayment": 0,
+        "monthlyPayment": 53,
+        "savingAmount": 457,
+        "payoffPeriodMonths": 24
+      },
+      "plan": {
+        "price": 75,
+        "sku": "Big Gig Unlimited + Talk 15GB"
+      },
+      "isInStock": true
+    },
+    {
+      "sku": "190199220768",
+      "make": "Apple",
+      "model": "iPhone 11",
+      "pricing": {
+        "price": 1049,
+        "msrp": 1049
+      },
+      "smartTab": {
+        "outrightPayment": 0,
+        "monthlyPayment": 29,
+        "savingAmount": 353,
+        "payoffPeriodMonths": 24
+      },
+      "plan": {
+        "price": 75,
+        "sku": "Big Gig Unlimited + Talk 15GB"
+      },
+      "isInStock": true
+    },
+    {
+      "sku": "887276342337",
+      "make": "Samsung",
+      "model": "Galaxy A70",
+      "pricing": {
+        "price": 600,
+        "msrp": 600
+      },
+      "smartTab": {
+        "outrightPayment": 0,
+        "monthlyPayment": 15,
+        "savingAmount": 240,
+        "payoffPeriodMonths": 24
+      },
+      "plan": {
+        "price": 40,
+        "sku": "Freedom 2GB"
+      },
+      "isInStock": false
+    },
+    {
+      "sku": "842776109781",
+      "make": "Google",
+      "model": "Pixel 3",
+      "pricing": {
+        "price": 999,
+        "msrp": 999
+      },
+      "smartTab": {
+        "outrightPayment": 0,
+        "monthlyPayment": 5,
+        "savingAmount": 879,
+        "payoffPeriodMonths": 24
+      },
+      "plan": {
+        "price": 50,
+        "sku": "Big Gig Unlimited + Talk 10GB"
+      },
+      "isInStock": true
+    },
+    {
+      "sku": "886598060981",
+      "make": "Huawei",
+      "model": "P30 lite",
+      "pricing": {
+        "price": 450,
+        "msrp": 450
+      },
+      "smartTab": {
+        "outrightPayment": 0,
+        "monthlyPayment": 5,
+        "savingAmount": 330,
+        "payoffPeriodMonths": 24
+      },
+      "plan": {
+        "price": 50,
+        "sku": "Big Gig Unlimited 10GB"
+      },
+      "isInStock": true
+    },
+    {
+      "sku": "889063504010",
+      "make": "Alcatel",
+      "model": "GoFLIP",
+      "pricing": {
+        "price": 99,
+        "msrp": 99
+      },
+      "smartTab": {
+        "outrightPayment": 0,
+        "monthlyPayment": 0,
+        "savingAmount": 99,
+        "payoffPeriodMonths": 24
+      },
+      "plan": {
+        "price": 25,
+        "sku": "Freedom 500MB"
+      },
+      "isInStock": true
+    }
+  ],
+  "pagination": null
+}
