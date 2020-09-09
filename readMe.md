@@ -39,3 +39,7 @@ plugins: [
 },
 },
 };
+
+RESOURCES
+
+Adding DotEnv and testing env vars: https://dev.to/ddialar/jest-with-global-dotenv-configuration-cgo
